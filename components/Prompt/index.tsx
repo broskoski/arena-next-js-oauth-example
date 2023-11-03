@@ -3,7 +3,7 @@ import { signIn } from 'next-auth/react'
 import styled from 'styled-components'
 import { useArena } from '../../hooks/useArena'
 
-const CHANNEL_ID = 'a-catalogue-of-simple-pleasures'
+const CHANNEL_ID = '<your-channel-id>'
 
 const Container = styled.div<{ loggedIn: boolean }>`
   padding: 2rem 0;

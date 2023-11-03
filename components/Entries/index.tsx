@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 import { useArena } from '../../hooks/useArena'
 
-const CHANNEL_ID = 'a-catalogue-of-simple-pleasures'
+const CHANNEL_ID = '<your channel id>'
 
 const Container = styled.div`
   padding: 2rem 0;
